@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1607751175 source:d:\manipal study\ada\stackandqueueassign\stacksandqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<string.h>
+	"stacklink.h"
+
+1607751769 source:d:\manipal study\ada\stackandqueueassign\stacksandqueue\stack.c
+	<stdint.h>
+	<assert.h>
+	"stacklink.h"
+	<string.h>
+	<ctype.h>
+
+1607748209 d:\manipal study\ada\stackandqueueassign\stacksandqueue\stacklink.h
+	<stdint.h>
+
